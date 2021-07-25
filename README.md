@@ -2,7 +2,7 @@
 
 # OpenCV
 
-Computer Vision مهمة تحليل وإكتشاف الأوجه والأجسام وأجزائها من خلال علم أو مجال رؤية (إبصار) الكمبيوتر 
+The task of analyzing and discovering faces, objects and their parts through the science or field of computer vision.
 --------------------------------------------------
 ![520460](https://user-images.githubusercontent.com/85587466/126017841-0eccac27-3642-4050-9fb3-5a80b08da024.jpg)
 
@@ -13,21 +13,22 @@ Computer Vision مهمة تحليل وإكتشاف الأوجه والأجسام
 
 --------------------------------------------------
 
-يجب تحميل برنامج البايثون 
+Python must be downloaded:
 
-https://www.python.org/downloads/ :رابط التحميل من الموقع
+https://www.python.org/downloads/
 
-OpenCV لتنزيل مكتبة ال  
-numpy الـ
+OpenCV to download the library
 ----------
-`pip install opencv-python` أرجو كتابة الأمر       
-cmd من خلال موجه الأوامر  
+Please write the command:
+`pip install opencv-python`          
+At the command prompt cmd
 ![numpy install code](https://user-images.githubusercontent.com/85587466/126020047-e32e7edc-ceae-4eae-9ba4-5a30d762bd3f.png)
 
 ----------
-Pycharm وتم تشغيل الكود البرمجي عبر برنامج  
+The code was run through a program
 ----------
+The link to the clip that was followed:
+https://www.youtube.com/watch?v=PLKLsPDZ1t0 
 
-https://www.youtube.com/watch?v=PLKLsPDZ1t0 :رابط المقطع التي تم تتبع شرحه
-
-https://drive.google.com/file/d/1pomC9Zw178nxgNOrpemaQfSH8rSVyMBD/view :رابط تحميل الكود
+Link to download full code:
+https://drive.google.com/file/d/1pomC9Zw178nxgNOrpemaQfSH8rSVyMBD/view  
