@@ -1,4 +1,4 @@
-# Project_IOT_Real-time-Face-detection
+# Project_AI_Real-time-Face-detection
 
 # OpenCV
 
