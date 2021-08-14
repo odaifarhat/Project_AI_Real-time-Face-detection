@@ -27,8 +27,6 @@ At the command prompt cmd
 ----------
 The code was run through a program
 ----------
-The link to the clip that was followed:
-https://www.youtube.com/watch?v=PLKLsPDZ1t0 
 
 Link to download full code:
 https://drive.google.com/file/d/1pomC9Zw178nxgNOrpemaQfSH8rSVyMBD/view  
